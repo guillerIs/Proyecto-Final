@@ -1,2 +1,2 @@
 # Proyecto-Final (in the end)
-Elegí  generación de historias automáticas....porque me gusta escribir historias XD
+Generar un modelo que prediga qué medicamento se agotará en el stock de una farmacia.
