@@ -1,2 +1,3 @@
 # Proyecto-Final (in the end)
-Generar un modelo que prediga qué medicamento se agotará en el stock de una farmacia.
+mejorar las ganancias de la farmacia en línea prediciendo los mejores precios por día.
+Lo anoto aqui para que no se me olvide
